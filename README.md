@@ -24,3 +24,8 @@ Civil Engineering @ [UM](https://www.unimoron.edu.ar/)
 - React
 - Jest
 - Firebase
+
+### Languages:
+
+- English
+- Spanish
