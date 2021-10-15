@@ -29,3 +29,4 @@ Civil Engineering @ [UM](https://www.unimoron.edu.ar/)
 
 - English
 - Spanish
+- A little bit of German (Prost!)
